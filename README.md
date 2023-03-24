@@ -1,7 +1,8 @@
 # Projeto aquisiçao de dados (Web Scrap)
 
 
-Este repositório contém script em Python para aquisição de dados de uma fonte específica.
+Este repositório contém scripts em Python para aquisição de dados de uma fonte específica.
+Esses Scripts utilizam tecnologias que auxiliarão na coleta dedados de maneira automatica de maneira elegante, eficaz e de facil utilização.
 
 Esses scripts estão separados em pastas com os nome " Aquisicoes", juntamente com pastas para organizar o tipo de dado desejado.
 
