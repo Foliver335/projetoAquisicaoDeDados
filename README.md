@@ -38,21 +38,13 @@ Linux : Para instalar o Python em uma máquina com Linux, siga os seguintes pass
 Pronto, agora você tem o Python instalado em sua máquina com Linux e pode começar a escrever e executar programas em Python.
 
 Mac: Para instalar o Python em uma máquina com Mac, siga os seguintes passos:
-
 1.Acesse o site oficial de download do Python: https://www.python.org/downloads/.
-
 2.Clique no botão "Download Python X.X.X" (onde X.X.X é a versão mais recente do Python disponível).
-
 3.Role a página até encontrar os downloads para Mac e clique no instalador "macOS 64-bit installer".
-
 4.Abra o arquivo .pkg baixado e siga as instruções do instalador. Certifique-se de marcar a opção "Install for all users" e "Add Python X.X to PATH" para que o Python possa ser acessado de qualquer diretório em seu Mac.
-
 5.Clique em "Install" para iniciar a instalação.
-
 6.Aguarde até que a instalação seja concluída. O instalador irá notificá-lo quando estiver concluído.
-
 7.Para verificar se o Python foi instalado corretamente, abra o terminal e digite "python3 --version". Isso deve mostrar a versão do Python instalada em seu Mac.
-
 Após a instalação do Python, você pode começar a escrever e executar programas em Python no terminal ou utilizando um ambiente de desenvolvimento integrado (IDE) como PyCharm, VS Code, entre outros.
 
 Você pode instalar todas as dependências utilizando o pip:
