@@ -1,4 +1,4 @@
-# Projeto-aquisiçao (Web Scrap)
+# Projeto aquisiçao de dados (Web Scrap)
 
 
 Este repositório contém script em Python para aquisição de dados de uma fonte específica.
@@ -8,12 +8,12 @@ Esses scripts estão separados em pastas com os nome " Aquisicoes", juntamente c
 Requisitos
 Para rodar o script é necessário ter o Python instalado em sua máquina, além das seguintes bibliotecas:
 
-1. Beautiful Soup ( Biblioteca de análise de HTML e XML para Python. Ela é usada para extrair dados de arquivos HTML e XML, tornando mais fácil a manipulação desses dados em um programa Python).
+* Beautiful Soup (Biblioteca de análise de HTML e XML para Python. Ela é usada para extrair dados de arquivos HTML e XML, tornando mais fácil a manipulação desses dados em um programa Python).
 * LXML (Biblioteca de processamento de XML e HTML para Python. Ela é usada para analisar, validar e manipular documentos XML e HTML de forma eficiente).
 PyQuery (biblioteca que fornece uma interface semelhante ao jQuery para Python. Ela permite que você faça seleções de elementos HTML usando a sintaxe do jQuery e manipule esses elementos facilmente em seus programas Python)
-Scrapy (é uma biblioteca de web scraping de alta performance para Python. Ela é usada para extrair dados de websites de forma automatizada e escalável, permitindo que você crie programas que coletam informações de várias páginas web em pouco tempo).
-Selenium ( biblioteca de automação de testes para web que permite a interação com páginas web em um navegador real ou emulado. Ela é usada principalmente para testes automatizados, mas também pode ser usada para web scraping em sites que requerem interações com o usuário
-Requests
+* Scrapy (Biblioteca de web scraping de alta performance para Python. Ela é usada para extrair dados de websites de forma automatizada e escalável, permitindo que você crie programas que coletam informações de várias páginas web em pouco tempo).
+* Selenium (Biblioteca de automação de testes para web que permite a interação com páginas web em um navegador real ou emulado. Ela é usada principalmente para testes automatizados, mas também pode ser usada para web scraping em sites que requerem interações com o usuário
+* Requests (Biblioteca de HTTP para Python. Ela é usada para enviar solicitações HTTP para servidores web e receber respostas. Ela fornece uma interface simples para lidar com solicitações e respostas HTTP, permitindo que você escreva programas que interagem com servidores web).
 
 Caso ainda não possua o Python em sua máquina, siga os passos a seguir:
 
