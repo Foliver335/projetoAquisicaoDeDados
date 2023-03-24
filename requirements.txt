@@ -1,0 +1,9 @@
+
+beautifulsoup4
+lxml
+pyautogui
+pyquery
+os
+requests
+scrapy
+selenium
