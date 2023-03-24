@@ -50,15 +50,15 @@ Após a instalação do Python, você pode começar a escrever e executar progra
 
 Você pode instalar todas as dependências utilizando o pip:
 
-Copy code
-pip install -r requirements.txt
-Como usar
-Clone este repositório na sua máquina.
-Insira a chave de acesso à fonte de dados no arquivo config.py.
-Rode o script utilizando o seguinte comando:
-Copy code
-python script.py
-O script irá adquirir os dados da fonte especificada e salvá-los em um arquivo CSV na pasta data. Em seguida, será feita uma análise dos dados e serão gerados alguns gráficos para visualização.
+1. Copy code
+2. pip install -r requirements.txt
+3. Como usar
+4. Clone este repositório na sua máquina.
+5. Insira a chave de acesso à fonte de dados no arquivo config.py.
+6. Rode o script utilizando o seguinte comando:
+7. Copy code
+8. python script.py
+9. O script irá adquirir os dados da fonte especificada e salvá-los em um arquivo CSV na pasta data. Em seguida, será feita uma análise dos dados e serão gerados alguns gráficos para visualização.
 
 Contribuições
 Este script foi criado como um exemplo simples de aquisição de dados. Contribuições para melhorias e novas funcionalidades são sempre bem-vindas.
